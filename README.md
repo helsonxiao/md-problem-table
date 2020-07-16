@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Markdown to JSON
+1. 利用 markdown-it 进行 tokenize
+2. 根据 h3 open token 找到题目起点
+3. 解析出题目数据
+
 ## Available Scripts
 
 In the project directory, you can run:
